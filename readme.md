@@ -6,7 +6,7 @@ Code and Data = (https://github.com/iamgalenc/tokoscrapper)
 ![Preview Data](preview.png)
 
 # TokoScrapper (CLI)
-TokoScrapper CLI is a command-line tool to scrape product data from [Tokopedia](https://www.tokopedia.com)using 
+TokoScrapper CLI is a command-line tool to scrape product data from [Tokopedia](https://www.tokopedia.com) using 
 **Python, Selenium, BeautifulSoup, and Rich**.  
 It provides a clean CLI interface with progress bars, styled tables, and multiple export options (CSV, Excel, JSON, YAML).
 
