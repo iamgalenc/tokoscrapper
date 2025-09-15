@@ -14,8 +14,8 @@ It provides a clean CLI interface with progress bars, styled tables, and multipl
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/tokopedia-scraper-cli.git
-cd tokopedia-scraper-cli
+git clone https://github.com/iamgalenc/tokoscrapper.git
+cd tokoscraper
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
