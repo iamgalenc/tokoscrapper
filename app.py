@@ -120,22 +120,19 @@ def main():
             table.add_row(*[str(x) if x is not None else "-" for x in row.tolist()])
 
         console.print(Panel(table, title="[bold cyan]📦 Preview Data[/bold cyan]", expand=False))
+        user_format = Prompt.ask("\n[cyan]Pilih format penyimpanan (csv/xlsx/json/yaml)[/cyan]", choices=["csv", "xlsx", "json", "yaml"], default="csv")
+        filename = f"tokopedia_scrapper{keyword}.{user_format}"
+        if user_format == "csv":
+            df.to_csv(filename, index=False, encoding="utf-8-sig")
+        elif user_format == "xlsx":
+            df.to_excel(filename, index=False, engine="openpyxl")
+        elif user_format == "json":
+            df.to_json(filename, orient="records", force_ascii=False, indent=2)
+        elif user_format == "yaml":
+            with open(filename, "w", encoding="utf-8") as f:
+                yaml.dump(df.to_dict(orient="records"), f, allow_unicode=True)
         
-        save_formats = ["csv", "xlsx", "json", "yaml"]
-        for fmt in save_formats:
-            filename = f"tokopedia_scrapper{keyword}.{fmt}"
-        
-            if fmt == "csv":
-                df.to_csv(filename, index=False, encoding="utf-8-sig")
-            elif fmt == "xlsx":
-                df.to_excel(filename, index=False, engine="openpyxl")
-            elif fmt == "json":
-                df.to_json(filename, orient="records", force_ascii=False, indent=2)
-            elif fmt == "yaml":
-                with open(filename, "w", encoding="utf-8") as f:
-                    yaml.dump(df.to_dict(orient="records"), f, allow_unicode=True)
-        
-            console.print(f"[bold green]💾 Data disimpan ke:[/bold green] [yellow]{filename}[/yellow]")
+        console.print(f"[bold green]💾 Data disimpan ke:[/bold green] [yellow]{filename}[/yellow]")
 
 if __name__ == "__main__":
     main()
