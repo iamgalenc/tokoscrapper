@@ -1,542 +1,1073 @@
 [
   {
-    "Nama Produk":"LAPTOP AXIOO MYBOOK HYPE 5 (G12) BLACK :  INTEL CORE I5-1235U 8GB 256GBSSD WIN11 (SLEVCASE)",
-    "Nama Toko":"mdpsuperstore",
-    "Lokasi Toko":"Palembang",
-    "Harga":"Rp5.699.000",
+    "Nama Produk":"Intel Core i5 12400F 2.5GHz Up To 4.4GHz [Box] Socket LGA 1700",
+    "Nama Toko":"Enter Komputer Official",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.090.000",
     "Promo\/Diskon":null,
-    "Terjual":"8 terjual",
+    "Terjual":"1rb+ terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"PROCESSOR INTEL CORE I5 GEN 6 + FAN LGA \/ CORE I5 6600 TRAY LGA 1151",
-    "Nama Toko":"BintangRayaKomputer",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp590.000",
-    "Promo\/Diskon":"24%",
-    "Terjual":"15 terjual",
+    "Nama Produk":"Intel Core i5 12400F Box | 4.4Ghz 6C 12T | GEN 12th LGA1700 Alder Lake",
+    "Nama Toko":"YOUNGS COMPUTER",
+    "Lokasi Toko":"Kab. Sleman",
+    "Harga":"Rp1.678.000",
+    "Promo\/Diskon":null,
+    "Terjual":"100+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"Intel Core i5-10400F LGA1200 6C\/12T 4.3Ghz 12MB 65W Komputer Prosessor",
+    "Nama Toko":"Agres Komputer Bandung",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp1.275.000",
+    "Promo\/Diskon":"17%",
+    "Terjual":"9 terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Intel Core i5 3470 Tray + Fan",
-    "Nama Toko":"JnJ Online",
+    "Nama Produk":"Intel Core i5 9600K - 3.7GHz 6-Core (Socket 1151 Coffe Lake Gen 9)",
+    "Nama Toko":"Toko Expert Komputer",
     "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp711.000",
+    "Harga":"Rp3.938.000",
     "Promo\/Diskon":null,
-    "Terjual":"1 terjual",
+    "Terjual":"30+ terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Intel Core i5 11400 TRAY 2.6GHz 6 Core 12 Threads - LGA1200",
-    "Nama Toko":"JnJ Online",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.439.000",
-    "Promo\/Diskon":null,
-    "Terjual":"23 terjual",
+    "Nama Produk":"Intel Core i5-14400F LGA1700 6P+4E\/16T 4.7Ghz 20MB 65W Komputer Prosessor",
+    "Nama Toko":"Agres Komputer Bandung",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp2.190.000",
+    "Promo\/Diskon":"52%",
+    "Terjual":"30+ terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Intel Core i5 10400 2.9GHz 6 Core 12 Thread Comet Lake - LGA1200",
-    "Nama Toko":"JnJ Online",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.299.000",
+    "Nama Produk":"INTEL PROCESSOR CORE I5 13400F - LGA1700",
+    "Nama Toko":"Ramai Cell26",
+    "Lokasi Toko":"Surabaya",
+    "Harga":"Rp920.000",
     "Promo\/Diskon":null,
+    "Terjual":"5 terjual",
+    "Rating":null
+  },
+  {
+    "Nama Produk":"Intel Core i5-13400F LGA1700 6P+4E\/16T 4.6Ghz 20MB 65W Komputer Prosessor",
+    "Nama Toko":"Agres Komputer Bandung",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp1.950.000",
+    "Promo\/Diskon":"14%",
+    "Terjual":"30+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"PROCESSOR INTEL CORE I5 12400F 4.40 GHz BOX SOCKET 1700 3 TAHUN",
+    "Nama Toko":"QueenProcessor",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp1.988.001",
+    "Promo\/Diskon":null,
+    "Terjual":"2rb+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"INTEL PROCESSOR I5 12400F LGA1700 - PROCESSOR INTEL - PROCESSOR INTEL I5 - PROCESSOR LGA 1700 - I5 GEN 12",
+    "Nama Toko":"Agres Komputer Official",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp1.940.000",
+    "Promo\/Diskon":"39%",
     "Terjual":"250+ terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Intel core i5 7400 3.0 GHz Tray + FAN - LGA1151",
-    "Nama Toko":"JnJ Online",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp1.472.000",
-    "Promo\/Diskon":null,
-    "Terjual":"3 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5 14400F 10 Core 16 Thread Up To 4.7Ghz LGA 1700",
-    "Nama Toko":"Starcomp Purwokerto",
-    "Lokasi Toko":"Kab. Banyumas",
-    "Harga":"Rp2.549.000",
+    "Nama Produk":"Paket Processor Gaming Intel Core i5 14400F Box Gen 14 LGA 1700 RAM DDR5 32GB",
+    "Nama Toko":"Mandiri Teknologi_NEW",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp6.475.000",
     "Promo\/Diskon":null,
     "Terjual":"1 terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Intel Core i5-760 Processor 8M Cache, 2.80 GHz",
-    "Nama Toko":"JnJ Online",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp1.117.000",
+    "Nama Produk":"Processor Intel Core i5 4570 \/ 4590 \/ 4670 \/ 4690 Tray Socket 1150 Ci5",
+    "Nama Toko":"Panda PC",
+    "Lokasi Toko":"Kab. Tangerang",
+    "Harga":"Rp272.000",
     "Promo\/Diskon":null,
-    "Terjual":"1 terjual",
+    "Terjual":"5rb+ terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Intel Core i5 11400F 2.6GHz 6 Core 12 Threads Rocket Lake - LGA1200",
-    "Nama Toko":"JnJ Online",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.129.000",
+    "Nama Produk":"Intel Core i5 8500 Tray + Fan Coffe lake - Intel LGA 1151 H110",
+    "Nama Toko":"Cheap n Cheap",
+    "Lokasi Toko":"Denpasar",
+    "Harga":"Rp274.000",
     "Promo\/Diskon":null,
-    "Terjual":"50+ terjual",
+    "Terjual":"4 terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Intel Core i5 4590 3.3Ghz Socket LGA 1150 Haswell Intel Gen 4 Tray",
-    "Nama Toko":"Starcomp Purwokerto",
-    "Lokasi Toko":"Kab. Banyumas",
-    "Harga":"Rp402.000",
+    "Nama Produk":"Intel Core i5-11400F 2.6Ghz Up To 4.4Ghz [Tray] LGA 1200",
+    "Nama Toko":"Enter Komputer Official",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp1.229.000",
     "Promo\/Diskon":null,
-    "Terjual":"3 terjual",
+    "Terjual":"40+ terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Intel Core i5 10400F 2.9GHz 6 Core 12 Thread Comet Lake - LGA1200",
-    "Nama Toko":"JnJ Online",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp1.679.000",
+    "Nama Produk":"Intel Core i5 3470 3.60GHz+ Fan 1155",
+    "Nama Toko":"Pc Murah Comp",
+    "Lokasi Toko":"Bekasi",
+    "Harga":"Rp249.800",
     "Promo\/Diskon":null,
     "Terjual":"500+ terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Processor CPU Intel Core i5-4590 | 4 Cores | 3.70 GHz 6MB Cache | Intel HD Graphics 4600 | LGA1150 | TDP 84W | Tray Garansi 1 Tahun",
-    "Nama Toko":"UV Computer Mall",
+    "Nama Produk":"Intel Core i5 12400F BOX (INTEL LGA 1700)",
+    "Nama Toko":"Toko Expert Komputer",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.010.000",
+    "Promo\/Diskon":null,
+    "Terjual":"1rb+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Processor Intel Core i5 13400F 2.5GHz Up To 4.6GHz - [Box] LGA 1700",
+    "Nama Toko":"Enter Komputer Official",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.320.000",
+    "Promo\/Diskon":null,
+    "Terjual":"250+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"INTEL PROCESSOR I5 12400F LGA1700 1YT - PROCESSOR INTEL I5 GEN 12 - PROCESSOR INTEL GEN 12 - INTEL I5 12400F",
+    "Nama Toko":"Agres Komputer Official",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp1.637.000",
+    "Promo\/Diskon":"36%",
+    "Terjual":"100+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"INTEL CORE I5 12400F | Desktop Processor Gen 12 LGA 1700",
+    "Nama Toko":"Lezz Computech",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp1.749.000",
+    "Promo\/Diskon":null,
+    "Terjual":"30+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel Core i5-14400F",
+    "Nama Toko":"COC Komputer",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.625.000",
+    "Promo\/Diskon":null,
+    "Terjual":"100+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel Core i5-10400F 2.9Ghz Up To 4.3Ghz - Cache 12MB [Box] LGA 1200",
+    "Nama Toko":"Enter Komputer Official",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp1.699.000",
+    "Promo\/Diskon":null,
+    "Terjual":"1rb+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Processor Intel Core i5-14600K 3.5GHz Up To 5.3GHz - [Box] LGA 1700",
+    "Nama Toko":"Enter Komputer Official",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp4.079.000",
+    "Promo\/Diskon":null,
+    "Terjual":"60+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"PAKET Intel Core I5 10400F (Gen 10) TRAY + Motherboard MSI H510 DDR4 Socket LGA 1200",
+    "Nama Toko":"Cahaya Komputer ID",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp1.375.000",
+    "Promo\/Diskon":null,
+    "Terjual":"2 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Processor Intel Core i5 12400F LGA 1700",
+    "Nama Toko":"ITShop Online",
+    "Lokasi Toko":"Surabaya",
+    "Harga":"Rp2.300.000",
+    "Promo\/Diskon":null,
+    "Terjual":"1rb+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel Core i5-14400 LGA1700 6P+4E\/16T 4.7Ghz UHD730 20MB 65W",
+    "Nama Toko":"Agres Komputer Bandung",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp2.550.000",
+    "Promo\/Diskon":"49%",
+    "Terjual":"6 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel Core i5 10400F - 2.9GHz 6 Core Comet Lake - LGA1200",
+    "Nama Toko":"DCS Komputer_NEW",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp1.610.000",
+    "Promo\/Diskon":null,
+    "Terjual":null,
+    "Rating":null
+  },
+  {
+    "Nama Produk":"PC Rakitan Intel Core i5 12400 gen 12 | ssd nvme | ram 8\/16gb",
+    "Nama Toko":"POINT99 COMPUTER",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp4.675.000",
+    "Promo\/Diskon":null,
+    "Terjual":"70+ terjual",
+    "Rating":"4.8"
+  },
+  {
+    "Nama Produk":"ADVAN Workpro Intel Core i5 12450H RAM32GB SSD1TB 14'' FHD IPS  Windows 11",
+    "Nama Toko":"SKYTECH STORE ID",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp5.349.000",
+    "Promo\/Diskon":null,
+    "Terjual":"60+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"Processor Intel Core i5 13400F 10 Core 16 Threads 4.60GHz (LGA 1700)",
+    "Nama Toko":"Toko Expert Komputer",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.338.000",
+    "Promo\/Diskon":null,
+    "Terjual":"250+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"INTEL CORE I5 12400F | Desktop Processor 6 (6P+0E) Cores LGA 1700",
+    "Nama Toko":"Nano Komputer",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.279.000",
+    "Promo\/Diskon":null,
+    "Terjual":"750+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Processor Intel Core I5 12400F Box Alder Lake Socket LGA 1700",
+    "Nama Toko":"DCS Komputer_NEW",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp2.120.824",
+    "Promo\/Diskon":null,
+    "Terjual":null,
+    "Rating":null
+  },
+  {
+    "Nama Produk":"Intel Processor Core i5 14400F - LGA1700 - Intel gen14",
+    "Nama Toko":"ITShop Online",
+    "Lokasi Toko":"Surabaya",
+    "Harga":"Rp2.500.000",
+    "Promo\/Diskon":null,
+    "Terjual":"30+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel Core i5 12400 BOX (INTEL LGA 1700)",
+    "Nama Toko":"Toko Expert Komputer",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.620.000",
+    "Promo\/Diskon":null,
+    "Terjual":"500+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"ACER Mate 14 AM1 Intel Core i5 1235U 8\/512GB SSD Windows 11 OHS 14\" WUXGA IPS",
+    "Nama Toko":"Acer Authorized Store Jakarta",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp7.399.000",
+    "Promo\/Diskon":"14%",
+    "Terjual":"60+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"Paket Mobo i5 - Motherboard H61 ECS Lga 1155 Processor Intel Core i5-3470 Ram DDR 3 Samsung\/Hynix 4GB & 8GB",
+    "Nama Toko":"Cybercompanycomp",
+    "Lokasi Toko":"Jakarta Barat",
+    "Harga":"Rp549.000",
+    "Promo\/Diskon":null,
+    "Terjual":"70+ terjual",
+    "Rating":"4.8"
+  },
+  {
+    "Nama Produk":"Intel Core i5-3570 3.4Ghz Cache 6MB [Tray] Socket LGA 1155",
+    "Nama Toko":"QueenProcessor",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp229.001",
+    "Promo\/Diskon":null,
+    "Terjual":"1rb+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"PROCESSOR INTEL CORE I5 7500 [TRAY+FAN] SOCKET 1151 3.4GHz",
+    "Nama Toko":"QueenProcessor",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp629.001",
+    "Promo\/Diskon":null,
+    "Terjual":"250+ terjual",
+    "Rating":"4.8"
+  },
+  {
+    "Nama Produk":"MSI Core i5 Modern 14 C12MO 9S7-14J112-1287 Black",
+    "Nama Toko":"ITShop Online",
+    "Lokasi Toko":"Surabaya",
+    "Harga":"Rp7.000.000",
+    "Promo\/Diskon":null,
+    "Terjual":"6 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Laptop HP Victus 15 FA2716TX GeForce RTX 3050 - I5 13420H RAM 8GB 512GB SSD 144HZ",
+    "Nama Toko":"NVIDIA GeForce Laptop",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp11.499.000",
+    "Promo\/Diskon":"36%",
+    "Terjual":"100+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"PAKET Intel I5 12400F (Gen 12) TRAY LGA 1700 + Motherborad MSI H610 DDR4 Garansi",
+    "Nama Toko":"Cahaya Komputer ID",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp1.795.000",
+    "Promo\/Diskon":null,
+    "Terjual":"13 terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"INTEL PROCESSOR I5 14400F LGA1700 [2.50-4.70 GHz, 6C\/12T, LGA 1700]",
+    "Nama Toko":"IMBA PC",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp2.170.000",
+    "Promo\/Diskon":"13%",
+    "Terjual":"4 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Acer Aspire Lite 14 Core i5 1235U i3 1215U N100 16GB 512GB Win+OHS 14.0",
+    "Nama Toko":"KangLaptop_NEW",
+    "Lokasi Toko":"Jakarta Selatan",
+    "Harga":"Rp9.899.000",
+    "Promo\/Diskon":null,
+    "Terjual":"13 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Paket Processor Intel Core i5 12400 \/ i5 12400F Box LGA 1700 Gen 12 DDR4 NVME",
+    "Nama Toko":"Mandiri Teknologi_NEW",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp4.350.000",
+    "Promo\/Diskon":null,
+    "Terjual":"30+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"Intel Core i5-7500 TRAY + FAN - 3.4Ghz - KabyLake Socket 1151",
+    "Nama Toko":"Toko Expert Komputer",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp708.000",
+    "Promo\/Diskon":null,
+    "Terjual":"50+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Processor Intel Core I5 12400 Box Alder Lake Socket LGA 1700",
+    "Nama Toko":"Jaya PC",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.555.000",
+    "Promo\/Diskon":null,
+    "Terjual":"100+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel core i5 6500 3.20ghz",
+    "Nama Toko":"novcom",
+    "Lokasi Toko":"Kab. Bogor",
+    "Harga":"Rp444.000",
+    "Promo\/Diskon":null,
+    "Terjual":"50+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel Core i5 7500 Tray + Fan Kabylake - Intel LGA 1151 H110",
+    "Nama Toko":"Cheap n Cheap",
+    "Lokasi Toko":"Denpasar",
+    "Harga":"Rp274.000",
+    "Promo\/Diskon":null,
+    "Terjual":"1 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel Core I5 13400 Desktop Processor 10 Cores Upto 4.60 GHz Socket LGA1700",
+    "Nama Toko":"Gamer ID Bandung",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp2.490.000",
+    "Promo\/Diskon":"13%",
+    "Terjual":"5 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"PC GAMING GEN 12 INTEL CORE I5 12400F VGA NVIDIA GT 730 8GB RAM WHITE",
+    "Nama Toko":"Kadal Gaming Surabaya",
+    "Lokasi Toko":"Surabaya",
+    "Harga":"Rp4.590.000",
+    "Promo\/Diskon":"21%",
+    "Terjual":"10 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"intel core i5 3470 tray lga 1155",
+    "Nama Toko":"KPC12",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp213.000",
+    "Promo\/Diskon":null,
+    "Terjual":"4rb+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"HP 14 Intel Core I5 Gen 13 Ram 16Gb 512Gb Win 11 Office 14 Inch Full HD IPS",
+    "Nama Toko":"AGRES ID Jakarta Timur",
+    "Lokasi Toko":"Jakarta Timur",
+    "Harga":"Rp8.349.000",
+    "Promo\/Diskon":null,
+    "Terjual":"20 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel Core I5 4570 3.2Ghz TRAY + FAN INTEL (Socket 1150)",
+    "Nama Toko":"Toko Expert Komputer",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp343.600",
+    "Promo\/Diskon":null,
+    "Terjual":"100+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Lenovo LOQ 15IAX9E Essential i5 12450HX RTX3050 6GB\/ 12GB 512GB W11+OHS 15.6FHD 144HZ 100SRGB",
+    "Nama Toko":"Lenovo Legion Official",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp11.499.000",
+    "Promo\/Diskon":"18%",
+    "Terjual":"100+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"ACER ASPIRE 7 PRO A715 59G 56K7 I5 12450H 16GB 512GB RTX3050 6GB 15.6\" FHD 144Hz OHS24  Windows",
+    "Nama Toko":"Acer Exclusive Pondok Indah",
+    "Lokasi Toko":"Jakarta Selatan",
+    "Harga":"Rp9.899.000",
+    "Promo\/Diskon":"18%",
+    "Terjual":"15 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Processor Intel Core i5 12400 LGA 1700",
+    "Nama Toko":"ITShop Online",
+    "Lokasi Toko":"Surabaya",
+    "Harga":"Rp2.700.000",
+    "Promo\/Diskon":null,
+    "Terjual":"750+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"INTEL CORE I5 11400F 2.6GHz ROCKET LAKE 6 CORE 12 THREAD LGA1200 [BOX]",
+    "Nama Toko":"QueenProcessor",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp1.699.001",
+    "Promo\/Diskon":null,
+    "Terjual":"1rb+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"Asus Vivobook F1504ZA i5 1235u 8GB SSD 512GB IrisXe 15,6\" FHD IPS Windows 11 Home",
+    "Nama Toko":"aura technology",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp7.099.000",
+    "Promo\/Diskon":null,
+    "Terjual":"70+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"INTEL CORE I5 12400 4.40 GHz BOX SOCKET 1700 3 TAHUN",
+    "Nama Toko":"QueenProcessor",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.499.001",
+    "Promo\/Diskon":null,
+    "Terjual":"250+ terjual",
+    "Rating":"4.8"
+  },
+  {
+    "Nama Produk":"Asus VivoBook 15 Core I5 Gen 12 16GB 512 SSD W 11 15.6 Inch IPS Panel",
+    "Nama Toko":"ROGZ Online",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp7.499.000",
+    "Promo\/Diskon":null,
+    "Terjual":"50+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Processor Intel Core i5 14600K 3.5GHz Up To 5.3GHz - [Box] LGA 1700",
+    "Nama Toko":"Makassar xtream computer",
+    "Lokasi Toko":"Makassar",
+    "Harga":"Rp4.500.000",
+    "Promo\/Diskon":null,
+    "Terjual":null,
+    "Rating":null
+  },
+  {
+    "Nama Produk":"Intel Core i5-10400 LGA 1200 gen 10",
+    "Nama Toko":"WB Computer",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp1.695.000",
+    "Promo\/Diskon":null,
+    "Terjual":"12 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel Core i5 12400 2.5 GHz 6 Core 12 Threads Alder Lake LGA1700",
+    "Nama Toko":"ONE IT EXPERT",
+    "Lokasi Toko":"Surabaya",
+    "Harga":"Rp2.923.000",
+    "Promo\/Diskon":null,
+    "Terjual":"60+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"PC \/ CPU \/ KOMPUTER RAKITAN CORE i5 BARU GARANSI 1 TAHUN",
+    "Nama Toko":"NENET COMPUTER",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp1.400.000",
+    "Promo\/Diskon":null,
+    "Terjual":"1rb+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"Processor Intel Core i5 - 4590 3.5Ghz Tray + Fan Socket 1150",
+    "Nama Toko":"QueenProcessor",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp319.001",
+    "Promo\/Diskon":null,
+    "Terjual":"1rb+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"Intel Core i5 12400 2.5GHz Up To 4.4GHz [Box] Socket LGA 1700",
+    "Nama Toko":"XFun Gaming",
+    "Lokasi Toko":"Samarinda",
+    "Harga":"Rp2.400.000",
+    "Promo\/Diskon":null,
+    "Terjual":null,
+    "Rating":null
+  },
+  {
+    "Nama Produk":"Intel Core i5-10400 2.9Ghz Up To 4.3Ghz - Cache 12 MB [Box] LGA 1200",
+    "Nama Toko":"Enter Komputer Official",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.169.000",
+    "Promo\/Diskon":null,
+    "Terjual":"250+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Paketan Intel Core i5 14400F with Motherboard LGA 1700 MSI Ram DDR4 or Mobo not Ryzen - PAKETAN CPU",
+    "Nama Toko":"alat gaming77",
     "Lokasi Toko":"Medan",
-    "Harga":"Rp349.000",
-    "Promo\/Diskon":"2%",
-    "Terjual":"11 terjual",
+    "Harga":"Rp2.255.000",
+    "Promo\/Diskon":"45%",
+    "Terjual":"1 terjual",
+    "Rating":null
+  },
+  {
+    "Nama Produk":"Paket Processor Gaming Intel Core i5 12400F Box Gen 12 LGA 1700 B660 RAM DDR4 16GB RGB",
+    "Nama Toko":"Mandiri Teknologi_NEW",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp4.850.000",
+    "Promo\/Diskon":null,
+    "Terjual":"2 terjual",
     "Rating":"5.0"
   },
   {
     "Nama Produk":"Intel Core i5 12400F 2.5GHz Up To 4.4GHz Socket LGA 1700",
     "Nama Toko":"Starcomp Semarang",
     "Lokasi Toko":"Semarang",
-    "Harga":"Rp1.899.000",
+    "Harga":"Rp2.165.000",
     "Promo\/Diskon":null,
-    "Terjual":"30+ terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5-12400F Processor CPU Gen 12 Alder Lake LGA1700 LGA-1700 TRAY Garansi 1 Tahun",
-    "Nama Toko":"UV Computer Mall",
-    "Lokasi Toko":"Medan",
-    "Harga":"Rp1.749.000",
-    "Promo\/Diskon":"5%",
-    "Terjual":"11 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Processor CPU Intel Core i5-4570 | 4 Cores | 3.60 GHz 6MB Cache | Intel HD Graphics 4600 | LGA1150 | TDP 84W | Tray Garansi 1 Tahun",
-    "Nama Toko":"UV Computer Mall",
-    "Lokasi Toko":"Medan",
-    "Harga":"Rp329.000",
-    "Promo\/Diskon":"6%",
-    "Terjual":"2 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5 10400 2.9 GHz BOX Socket LGA1200 CPU Processor",
-    "Nama Toko":"Starcomp Semarang",
-    "Lokasi Toko":"Semarang",
-    "Harga":"Rp2.150.000",
-    "Promo\/Diskon":null,
-    "Terjual":"11 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5-12400F Processor CPU Gen 12 Alder Lake LGA1700 LGA-1700 Box Garansi Resmi 3 Tahun",
-    "Nama Toko":"UV Computer Mall",
-    "Lokasi Toko":"Medan",
-    "Harga":"Rp2.190.000",
-    "Promo\/Diskon":null,
-    "Terjual":"29 terjual",
+    "Terjual":"40+ terjual",
     "Rating":"5.0"
   },
   {
     "Nama Produk":"Intel Core i5 12400 2.5GHz Up To 4.4GHz Socket LGA 1700 BOX",
     "Nama Toko":"Starcomp Semarang",
     "Lokasi Toko":"Semarang",
-    "Harga":"Rp2.499.000",
+    "Harga":"Rp2.690.000",
     "Promo\/Diskon":null,
     "Terjual":"24 terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Processor CPU Intel Core i5-3470 | 4 Cores | 3.60 GHz 6MB Cache | Intel HD Graphics 2500 | LGA1155 | TDP 77W | Tray Garansi 1 Tahun",
-    "Nama Toko":"UV Computer Mall",
-    "Lokasi Toko":"Medan",
-    "Harga":"Rp295.000",
+    "Nama Produk":"PROC INTEL CORE - i5 11400F ROCKET LAKE include fan (Harus pasang Vga) (BX8070811400F)",
+    "Nama Toko":"Maha.Gadget",
+    "Lokasi Toko":"Kab. Tabanan",
+    "Harga":"Rp1.815.000",
     "Promo\/Diskon":null,
-    "Terjual":"3 terjual",
-    "Rating":"5.0"
+    "Terjual":null,
+    "Rating":null
   },
   {
-    "Nama Produk":"Processor Intel Core i5-12400F Up To 4.4GHz Socket LGA 1700 Alder Lake",
-    "Nama Toko":"ESES Komputer Tasikmalaya",
-    "Lokasi Toko":"Tasikmalaya",
-    "Harga":"Rp2.056.000",
-    "Promo\/Diskon":null,
-    "Terjual":"22 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Processor CPU Intel Core i5-10400 | 6 Cores | 4.30 GHz 12MB Cache | Intel UHD Graphics 630 | LGA1200 | TDP 65W | Box Garansi 3 Tahun",
-    "Nama Toko":"UV Computer Mall",
-    "Lokasi Toko":"Medan",
-    "Harga":"Rp2.150.000",
-    "Promo\/Diskon":null,
-    "Terjual":"2 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5 13400F 2.5GHz Up To 4.6GHz LGA 1700 CPU Processor",
-    "Nama Toko":"Starcomp Semarang",
-    "Lokasi Toko":"Semarang",
-    "Harga":"Rp2.379.000",
-    "Promo\/Diskon":null,
-    "Terjual":"6 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Processor CPU Intel Core i5-10400F | 6 Cores | 4.30 GHz 12MB Cache | Tanpa Intel UHD | LGA1200 | TDP 65W | Box Garansi 3 Tahun",
-    "Nama Toko":"UV Computer Mall",
-    "Lokasi Toko":"Medan",
-    "Harga":"Rp1.710.000",
-    "Promo\/Diskon":null,
-    "Terjual":"2 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5-14400F 10 Core 16 Thread Up To 4.7Ghz LGA 1700",
-    "Nama Toko":"Starcomp Semarang",
-    "Lokasi Toko":"Semarang",
-    "Harga":"Rp2.549.000",
-    "Promo\/Diskon":null,
-    "Terjual":"11 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Processor CPU Intel Core i5-12400 | 6 Cores | 4.40 GHz 18MB Cache |  Intel UHD Graphics 730 | LGA1700 | TDP 65W | TRAY Garansi 1 Tahun",
-    "Nama Toko":"UV Computer Mall",
-    "Lokasi Toko":"Medan",
-    "Harga":"Rp2.299.000",
-    "Promo\/Diskon":"5%",
-    "Terjual":"8 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5-13400F - 10 Core 16 Threads 4.60GHz",
-    "Nama Toko":"Julyaugustshop",
+    "Nama Produk":"PROCESSOR INTEL CORE I5 12500 BOX 4.60 GHz BOX SOCKET 1700 3 TAHUN",
+    "Nama Toko":"QueenProcessor",
     "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.300.000",
+    "Harga":"Rp3.299.001",
     "Promo\/Diskon":null,
-    "Terjual":"25 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5 10400 TRAY FAN - 2.9GHz 6 Core 12 Thread LGA1200",
-    "Nama Toko":"Julyaugustshop",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp1.850.000",
-    "Promo\/Diskon":null,
-    "Terjual":"1 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5 12400 - 6 cores 12 threads up to 4.4 GHz",
-    "Nama Toko":"Julyaugustshop",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.600.000",
-    "Promo\/Diskon":null,
-    "Terjual":"3 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5 12400F - 6 cores 12 threads up to 4.4 GHz",
-    "Nama Toko":"Julyaugustshop",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp1.900.000",
-    "Promo\/Diskon":null,
-    "Terjual":"30+ terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5-11500 - 6 Core 12 Threads up To 4.6 Ghz - Gen 11 New",
-    "Nama Toko":"Julyaugustshop",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp3.700.000",
-    "Promo\/Diskon":null,
-    "Terjual":"1 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5-11400 - 6 Core 12 Threads up To 4.4 Ghz - Gen 11 New",
-    "Nama Toko":"Julyaugustshop",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.250.000",
-    "Promo\/Diskon":null,
-    "Terjual":"3 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5 4570 + Fan (Tray) - Socket LGA 1150",
-    "Nama Toko":"Julyaugustshop",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp680.000",
-    "Promo\/Diskon":null,
-    "Terjual":"1 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5 10400 2.9GHz Comet Lake 6 Core 12 Thread LGA1200",
-    "Nama Toko":"Julyaugustshop",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.150.000",
-    "Promo\/Diskon":null,
-    "Terjual":"15 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Proc Intel Core i5 - 6600 (3,9Ghz) Tray non fan -sky Lake 1151",
-    "Nama Toko":"AndalasSuryaGemilang",
-    "Lokasi Toko":"Surakarta",
-    "Harga":"Rp615.000",
-    "Promo\/Diskon":null,
-    "Terjual":"1 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"PROCESSOR INTEL CORE I5 12400F TRAY",
-    "Nama Toko":"RedTeknologi-Redcom",
-    "Lokasi Toko":"Jakarta Barat",
-    "Harga":"Rp1.762.000",
-    "Promo\/Diskon":null,
-    "Terjual":"1 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"PROCESSOR INTEL CORE I5 10400F TRAY",
-    "Nama Toko":"RedTeknologi-Redcom",
-    "Lokasi Toko":"Jakarta Barat",
-    "Harga":"Rp1.315.500",
-    "Promo\/Diskon":null,
-    "Terjual":"1 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"SPC LIFE 5 – Intel Core i5|8GB DDR4|Storage: 512GB|Garansi Resmi SPC 1 tahun",
-    "Nama Toko":"SPC Indonesia",
-    "Lokasi Toko":"Jakarta Utara",
-    "Harga":"Rp5.950.000",
-    "Promo\/Diskon":"54%",
-    "Terjual":"1 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"INTEL CORE I5 10400 GEN 10",
-    "Nama Toko":"YOESTORE",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.200.000",
-    "Promo\/Diskon":null,
-    "Terjual":"50+ terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Intel Core i5 10400F 2.9GHz Comet Lake 6 Core 12 Thread LGA1200",
-    "Nama Toko":"Julyaugustshop",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp1.615.000",
-    "Promo\/Diskon":null,
-    "Terjual":"60+ terjual",
+    "Terjual":"80+ terjual",
     "Rating":"4.9"
   },
   {
-    "Nama Produk":"Intel Core i5 10400 2.9GHz 6 Core 12 Thread Comet Lake - LGA1200",
-    "Nama Toko":"GX COMP",
-    "Lokasi Toko":"Bandung",
-    "Harga":"Rp2.229.000",
-    "Promo\/Diskon":null,
-    "Terjual":"2 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Processor Intel Core I5 13400F Box Raptor Lake Socket LGA 1700",
-    "Nama Toko":"Jaya Pro Computer",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.295.000",
-    "Promo\/Diskon":null,
-    "Terjual":"11 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Processor Intel Core i5 13400F 2.5GHz Up To 4.6GHz - [Box] LGA 1700",
-    "Nama Toko":"GX COMP",
-    "Lokasi Toko":"Bandung",
-    "Harga":"Rp2.450.000",
+    "Nama Produk":"Intel core i5 6500 3.20ghz",
+    "Nama Toko":"novcom",
+    "Lokasi Toko":"Kab. Bogor",
+    "Harga":"Rp445.000",
     "Promo\/Diskon":null,
     "Terjual":null,
-    "Rating":"5.0"
+    "Rating":null
   },
   {
-    "Nama Produk":"Processor Intel Core I5 10400 Box Comet Lake Socket LGA 1200",
-    "Nama Toko":"Jaya Pro Computer",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.094.000",
-    "Promo\/Diskon":null,
+    "Nama Produk":"ACER ASPIRE LITE AL14-71P I5 13500H 16GB 512GB W11+OHS 14.0WUXGA IPS",
+    "Nama Toko":"AGRES ID",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp8.309.000",
+    "Promo\/Diskon":"26%",
     "Terjual":"100+ terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Processor Intel Core I5 12400F Box Alder Lake Socket LGA 1700",
-    "Nama Toko":"Jaya Pro Computer",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp1.985.000",
+    "Nama Produk":"Paketan Asrock B560M Pro 4 i5 10400f Normal Bekas Pemakaian Pribadi Bundle Mobo Intel LGA 1200",
+    "Nama Toko":"Tekdino",
+    "Lokasi Toko":"Tangerang Selatan",
+    "Harga":"Rp2.650.000",
     "Promo\/Diskon":null,
-    "Terjual":"100+ terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Processor Intel Core I5 10400F Box Comet Lake Socket LGA 1200",
-    "Nama Toko":"Jaya Pro Computer",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp1.670.000",
-    "Promo\/Diskon":null,
-    "Terjual":"500+ terjual",
-    "Rating":"5.0"
+    "Terjual":null,
+    "Rating":null
   },
   {
     "Nama Produk":"Processor Intel Core I5 12400 Box Alder Lake Socket LGA 1700",
     "Nama Toko":"Jaya Pro Computer",
     "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.430.000",
+    "Harga":"Rp2.550.000",
     "Promo\/Diskon":null,
     "Terjual":"90+ terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Promo Intel Free Gift untuk setiap pembelian minimal Intel Core i5",
-    "Nama Toko":"Laptop Grosir ID",
-    "Lokasi Toko":"Jakarta Selatan",
-    "Harga":"Rp249.000",
+    "Nama Produk":"Processor Intel Core i5 10400 Comet Lake",
+    "Nama Toko":"Blessing Computer Bali",
+    "Lokasi Toko":"Denpasar",
+    "Harga":"Rp2.109.000",
     "Promo\/Diskon":null,
-    "Terjual":"19 terjual",
+    "Terjual":"100+ terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Processor Intel Core I5-12400F 2.5 GHz 6 Core 12 Threads LGA1700",
-    "Nama Toko":"Tech In Store",
-    "Lokasi Toko":"Jakarta Utara",
-    "Harga":"Rp1.876.000",
+    "Nama Produk":"Processor Intel Core i5 12400F Alder Lake LGA1700 Harus Pasang VGA",
+    "Nama Toko":"Blessing Computer Bali",
+    "Lokasi Toko":"Denpasar",
+    "Harga":"Rp2.199.000",
+    "Promo\/Diskon":null,
+    "Terjual":"250+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"PROCESSOR INTEL CORE I5 12400 4.40 GHz BOX SOCKET 1700 3 TAHUN",
+    "Nama Toko":"QueenProcessor",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.499.001",
+    "Promo\/Diskon":null,
+    "Terjual":"1rb+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"Cpu intel core i5 13400",
+    "Nama Toko":"Berau Komp",
+    "Lokasi Toko":"Kab. Berau",
+    "Harga":"Rp3.000.000",
+    "Promo\/Diskon":null,
+    "Terjual":null,
+    "Rating":null
+  },
+  {
+    "Nama Produk":"Intel Core i5 14400 Box Up To 4.7Ghz 10 Core 16 Thread LGA 1700 Gen 14th",
+    "Nama Toko":"YOUNGS COMPUTER",
+    "Lokasi Toko":"Kab. Sleman",
+    "Harga":"Rp2.728.000",
+    "Promo\/Diskon":null,
+    "Terjual":"11 terjual",
+    "Rating":"3.9"
+  },
+  {
+    "Nama Produk":"INTEL CORE I5 11600K Processor Intel Gen 11 LGA 1200 6 Core",
+    "Nama Toko":"Ssynergy.id",
+    "Lokasi Toko":"Bandar Lampung",
+    "Harga":"Rp4.849.000",
+    "Promo\/Diskon":null,
+    "Terjual":null,
+    "Rating":null
+  },
+  {
+    "Nama Produk":"PC Gaming Gen 12 | i5 12400F | RTX 4060 8GB | 16GB DDR4 | NVME |Render",
+    "Nama Toko":"Venom Gaming Store Official",
+    "Lokasi Toko":"Kab. Tangerang",
+    "Harga":"Rp10.625.000",
+    "Promo\/Diskon":null,
+    "Terjual":"100+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel Core i5 10400F 2.9GHz 6 Core (Intel LGA 1200, Gen 10)",
+    "Nama Toko":"Toko Expert Komputer",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp1.705.000",
+    "Promo\/Diskon":null,
+    "Terjual":"250+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Promo Processor Intel Core i5-14400F up to 4.7GHz Box LGA 1700",
+    "Nama Toko":"Aska Sttore",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp1.917.000",
+    "Promo\/Diskon":null,
+    "Terjual":null,
+    "Rating":null
+  },
+  {
+    "Nama Produk":"Processor Intel core i5 6500 3.2 GHz TRAY + FAN Socket 1151",
+    "Nama Toko":"QueenProcessor",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp499.001",
+    "Promo\/Diskon":null,
+    "Terjual":"1rb+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"Acer Nitro V15 ANV15-51-5430 with Intel i5-13420H and NVIDIA RTX4050 AND 16GB DDR5",
+    "Nama Toko":"TEKNO ELEKTRONIK SHOP",
+    "Lokasi Toko":"Jakarta Selatan",
+    "Harga":"Rp7.012.500",
+    "Promo\/Diskon":"45%",
+    "Terjual":"7 terjual",
+    "Rating":null
+  },
+  {
+    "Nama Produk":"Processor Intel Core I5 11400F (LGA 1200 Gen 11)",
+    "Nama Toko":"Toko Expert Komputer",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp1.712.000",
+    "Promo\/Diskon":null,
+    "Terjual":"250+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Prosesor Intel Core i5-10400 (Cache 12M, hingga 4,30 GHz)",
+    "Nama Toko":"Angelina Computer_NEW",
+    "Lokasi Toko":"Surabaya",
+    "Harga":"Rp2.700.000",
+    "Promo\/Diskon":null,
+    "Terjual":"50+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Processor Intel Core i5 12400 2.5 GHz 6 Core Alder Lake LGA 1700 New",
+    "Nama Toko":"Mugen Computer",
+    "Lokasi Toko":"Makassar",
+    "Harga":"Rp2.625.000",
     "Promo\/Diskon":null,
     "Terjual":"1 terjual",
-    "Rating":"5.0"
+    "Rating":null
   },
   {
-    "Nama Produk":"PROCESSOR INTEL CORE I5 3470 TRAY + FAN",
-    "Nama Toko":"Duta Mandiri Infokom",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp315.000",
+    "Nama Produk":"Intel Core i5 4590 Tray + Fan - Intel LGA 1150 H81",
+    "Nama Toko":"Cheap n Cheap",
+    "Lokasi Toko":"Denpasar",
+    "Harga":"Rp161.000",
     "Promo\/Diskon":null,
-    "Terjual":"3 terjual",
+    "Terjual":"25 terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"PROCESSOR INTEL CORE I5 2400 TRAY + FAN",
-    "Nama Toko":"Duta Mandiri Infokom",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp285.000",
+    "Nama Produk":"Core i5 9400F 4.1GHz Gen 9 Processor Intel 1151 Coffeelakes",
+    "Nama Toko":"Najch Creative House",
+    "Lokasi Toko":"Kab. Cirebon",
+    "Harga":"Rp999.500",
+    "Promo\/Diskon":null,
+    "Terjual":"10 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"INTEL CORE I5 12400F | GEN 12 LGA 1700 TRAY",
+    "Nama Toko":"PC Rakitan Official",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp1.637.000",
+    "Promo\/Diskon":"3%",
+    "Terjual":"6 terjual",
+    "Rating":null
+  },
+  {
+    "Nama Produk":"INTEL PROCESSOR I5 12600K LGA1700 3Y",
+    "Nama Toko":"Agres Komputer Official",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp2.760.000",
+    "Promo\/Diskon":"35%",
+    "Terjual":null,
+    "Rating":null
+  },
+  {
+    "Nama Produk":"Cpu intel core i5 Ram8gb",
+    "Nama Toko":"redy allshop",
+    "Lokasi Toko":"Medan",
+    "Harga":"Rp4.000.000",
     "Promo\/Diskon":null,
     "Terjual":"8 terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Processor Intel Core i5 11500 12M Cache Up To 4.6Ghz Box Socket 1200",
-    "Nama Toko":"Duta Mandiri Infokom",
+    "Nama Produk":"Intel Core i5 10400F | Processor Gen 10 Comet Lake LGA 1200",
+    "Nama Toko":"Lezz Computech",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp1.349.000",
+    "Promo\/Diskon":null,
+    "Terjual":"14 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Paket PC Intel Core I5 4590",
+    "Nama Toko":"Kita Computer.",
+    "Lokasi Toko":"Mataram",
+    "Harga":"Rp6.200.000",
+    "Promo\/Diskon":null,
+    "Terjual":null,
+    "Rating":null
+  },
+  {
+    "Nama Produk":"Processor INTEL CORE i5 14400 (LGA 1700)",
+    "Nama Toko":"Toko Expert Komputer",
     "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.225.000",
+    "Harga":"Rp3.370.000",
+    "Promo\/Diskon":null,
+    "Terjual":"18 terjual",
+    "Rating":"4.7"
+  },
+  {
+    "Nama Produk":"Paket Processor Intel i5 13400 \/ i5 13400F Tray Gen 13 LGA 1700 DDR5",
+    "Nama Toko":"Mandiri Teknologi_NEW",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp5.050.000",
+    "Promo\/Diskon":null,
+    "Terjual":"1 terjual",
+    "Rating":null
+  },
+  {
+    "Nama Produk":"PROCESSOR INTEL CORE I5 13400F 4.60 GHz BOX SOCKET 1700 GARANSI 3TAHUN",
+    "Nama Toko":"QueenProcessor",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.299.001",
+    "Promo\/Diskon":null,
+    "Terjual":"250+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"Processor Intel Core I5 14400F Box Raptor Lake Socket LGA 1700",
+    "Nama Toko":"Jaya PC",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp3.220.000",
+    "Promo\/Diskon":null,
+    "Terjual":"25 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel i5 4590 up to 3.70GHz",
+    "Nama Toko":"PGNet Computer",
+    "Lokasi Toko":"Kab. Bogor",
+    "Harga":"Rp280.000",
+    "Promo\/Diskon":null,
+    "Terjual":"100+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel I5 11400F + H510M Pro",
+    "Nama Toko":"Hanareta",
+    "Lokasi Toko":"Kab. Bantul",
+    "Harga":"Rp1.300.000",
+    "Promo\/Diskon":null,
+    "Terjual":null,
+    "Rating":null
+  },
+  {
+    "Nama Produk":"Intel Core i5 9600K Coffee Lake 6-Core 3.7 GHz LGA 1151",
+    "Nama Toko":"Mega Surya Computer_NEW",
+    "Lokasi Toko":"Banjarmasin",
+    "Harga":"Rp3.053.987",
+    "Promo\/Diskon":null,
+    "Terjual":null,
+    "Rating":null
+  },
+  {
+    "Nama Produk":"Processor Intel Core I5 12400F Box Alder Lake Socket LGA 1700",
+    "Nama Toko":"Jaya PC",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp1.990.000",
+    "Promo\/Diskon":null,
+    "Terjual":"250+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel Core i5 10400F - Socket LGA 1200 [TRAY]",
+    "Nama Toko":"Persada Computer",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp1.270.000",
+    "Promo\/Diskon":null,
+    "Terjual":"80+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Processor Intel Core I5 12400 Box Alder Lake Socket LGA 1700",
+    "Nama Toko":"Raja Harddisk",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp2.550.000",
+    "Promo\/Diskon":null,
+    "Terjual":"10 terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"Intel Core i5-10400F",
+    "Nama Toko":"COC Komputer",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp1.710.000",
+    "Promo\/Diskon":null,
+    "Terjual":"80+ terjual",
+    "Rating":"5.0"
+  },
+  {
+    "Nama Produk":"INTEL PROCESSOR I5 12400F LGA1700 3Y  BOX",
+    "Nama Toko":"Gamer Rakitan",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp1.960.000",
+    "Promo\/Diskon":null,
+    "Terjual":null,
+    "Rating":null
+  },
+  {
+    "Nama Produk":"PROCESSOR INTEL CORE I5 12400F 4.40 GHz TRAY SOCKET 1700",
+    "Nama Toko":"QueenProcessor",
+    "Lokasi Toko":"Jakarta Pusat",
+    "Harga":"Rp1.699.001",
+    "Promo\/Diskon":null,
+    "Terjual":"1rb+ terjual",
+    "Rating":"4.8"
+  },
+  {
+    "Nama Produk":"INTEL PROCESSOR I5 12400F LGA1700 1YT",
+    "Nama Toko":"PC Rakitan Official",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp1.637.000",
+    "Promo\/Diskon":"5%",
+    "Terjual":"100+ terjual",
+    "Rating":"4.8"
+  },
+  {
+    "Nama Produk":"Intel Core i5 13500 | CPU LGA 1700",
+    "Nama Toko":"PGNet Computer",
+    "Lokasi Toko":"Kab. Bogor",
+    "Harga":"Rp2.750.000",
     "Promo\/Diskon":null,
     "Terjual":"2 terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"PROCESSOR INTEL CORE I5 3570 TRAY + FAN",
-    "Nama Toko":"Duta Mandiri Infokom",
+    "Nama Produk":"MINI PC MSI i5 GEN 12 +WIN 11 | MSI CUBI 5 12M | INCLUDE RAM + SSD",
+    "Nama Toko":"Macro computer",
     "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp290.000",
+    "Harga":"Rp5.620.000",
     "Promo\/Diskon":null,
-    "Terjual":"8 terjual",
+    "Terjual":"250+ terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Processor Intel Core i5-10400 12M Cache Up To 4.30Ghz Box Socket 1200",
-    "Nama Toko":"Duta Mandiri Infokom",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp1.865.000",
+    "Nama Produk":"HOT PROCESSOR INTEL CORE I5 13400 UP TO 4.60 GHz BOX LGA 1700",
+    "Nama Toko":"Knight Gaming",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp2.900.000",
     "Promo\/Diskon":null,
-    "Terjual":"6 terjual",
+    "Terjual":"9 terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"PROCESSOR INTEL CORE I5 4460 TRAY + FAN ORI",
-    "Nama Toko":"Duta Mandiri Infokom",
+    "Nama Produk":"Processor Intel core i5 10400F 2.9 GHz BOX Socket 1200 NEW ITEM !!!",
+    "Nama Toko":"QueenProcessor",
     "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp355.000",
+    "Harga":"Rp1.589.001",
     "Promo\/Diskon":null,
-    "Terjual":"12 terjual",
+    "Terjual":"3rb+ terjual",
+    "Rating":"4.9"
+  },
+  {
+    "Nama Produk":"Paket Processor Intel Core i5 Gen 8 Socket LGA 1151 DDR4 NVME H310",
+    "Nama Toko":"Mandiri Teknologi_NEW",
+    "Lokasi Toko":"Jakarta Utara",
+    "Harga":"Rp2.625.000",
+    "Promo\/Diskon":null,
+    "Terjual":"25 terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Processor Intel Core I5 12400F Box Alder Lake - Socket LGA 1700 2.5Ghz",
-    "Nama Toko":"Duta Mandiri Infokom",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp1.825.000",
+    "Nama Produk":"Intel Processor Core i5-10400 BOX",
+    "Nama Toko":"POINT99 COMPUTER",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp2.150.000",
     "Promo\/Diskon":null,
-    "Terjual":"40+ terjual",
+    "Terjual":"80+ terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Processor Intel Core i5 11400 12M Cache Up To 4.4Ghz Box Socket 1200",
-    "Nama Toko":"Duta Mandiri Infokom",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.260.000",
+    "Nama Produk":"PC Gaming Intel Core i5 12400F | RTX 5070 12GB | 64GB | NVMe | Mid - High",
+    "Nama Toko":"Frontcomp",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp5.695.000",
     "Promo\/Diskon":null,
-    "Terjual":"5 terjual",
+    "Terjual":"3 terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Processor Intel Core I5 11400 Tray -6 Core 12 Threads Socket LGA 1200",
-    "Nama Toko":"Duta Mandiri Infokom",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp1.798.000",
+    "Nama Produk":"PAKET Intel Core I5 3470 (Gen 3) TRAY LGA 1155 + Motherboard H61 DDR3 + CPU Fan GARANSI",
+    "Nama Toko":"Cahaya Komputer ID",
+    "Lokasi Toko":"Bandung",
+    "Harga":"Rp245.500",
     "Promo\/Diskon":null,
-    "Terjual":"13 terjual",
+    "Terjual":"7 terjual",
     "Rating":"5.0"
   },
   {
-    "Nama Produk":"Processor Intel Core i5 11400F 12M Cache Up To 4.4Ghz Box Socket 1200",
-    "Nama Toko":"Duta Mandiri Infokom",
+    "Nama Produk":"Intel Core I5 11400F Box Rocket Lake Socket LGA 1200",
+    "Nama Toko":"MAXCOM ONLINE",
     "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.098.000",
+    "Harga":"Rp1.785.009",
     "Promo\/Diskon":null,
-    "Terjual":"13 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Processor Intel Core I5 12400 Box Alder Lake - Socket LGA 1700 2.5Ghz",
-    "Nama Toko":"Duta Mandiri Infokom",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.550.000",
-    "Promo\/Diskon":null,
-    "Terjual":"20 terjual",
-    "Rating":"5.0"
-  },
-  {
-    "Nama Produk":"Processor Intel Core I5 13400F Box - Raptor Lake Socket LGA 1700",
-    "Nama Toko":"Duta Mandiri Infokom",
-    "Lokasi Toko":"Jakarta Pusat",
-    "Harga":"Rp2.275.000",
-    "Promo\/Diskon":null,
-    "Terjual":"5 terjual",
+    "Terjual":"22 terjual",
     "Rating":"5.0"
   }
 ]

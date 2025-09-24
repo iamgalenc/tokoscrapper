@@ -5,6 +5,10 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from rich.console import Console
 from rich.panel import Panel
@@ -44,9 +48,16 @@ def scrape_tokopedia(keyword, max_scroll=20, wait_time=3):
     main_link = f"https://www.tokopedia.com/search?st=&q={keyword_encoded}"
 
     driver = create_driver(use_path=False)
-    driver.get(main_link)
-    time.sleep(wait_time)
+    driver.get("https://www.tokopedia.com")
+    search_box = WebDriverWait(driver, 15).until(
+        EC.presence_of_element_located((By.XPATH, '//*[@id="header-main-wrapper"]/div[2]/div[2]/div/div/div/div/input'))
+    )
 
+    search_box.send_keys(keyword)
+    search_box.send_keys(Keys.ENTER)
+    
+    time.sleep(wait_time)
+    
     last_count = 0
     for _ in track(range(max_scroll), description="[bold cyan]🔍 Scrolling halaman...[/bold cyan]"):
         driver.execute_script("window.scrollBy(0, 500);")
